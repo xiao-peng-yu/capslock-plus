@@ -16,3 +16,6 @@
 keyFunc_example1(){
   msgbox, example1
 }
+keyFunc_MouseClick(){
+  Click
+}
